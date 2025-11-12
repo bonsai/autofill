@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>JSON AutoFill Gal</title>
+  <link rel="stylesheet" href="popup.css" />
+</head>
+<body>
+  <div class="wrap">
+    <h1>JSON AutoFill Gal</h1>
+
+    <label class="row">Active profile
+      <select id="profileSelect"></select>
+    </label>
+
+    <div class="row">
+      <input type="file" id="fileInput" accept="application/json" />
+    </div>
+    <div class="row">
+      <button id="importBtn">Import me.json</button>
+      <button id="exportBtn">Export JSON</button>
+    </div>
+
+    <div id="status" class="status"></div>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>

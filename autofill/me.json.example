@@ -1,0 +1,53 @@
+{
+  "activeProfileId": "work",
+  "profiles": [
+    {
+      "id": "work",
+      "name": "お仕事用",
+      "data": {
+        "fullName": "山田 華子",
+        "fullNameKanji": "山田 華子",
+        "familyNameKanji": "山田",
+        "givenNameKanji": "華子",
+        "fullNameKana": "ヤマダ ハナコ",
+        "familyNameKana": "ヤマダ",
+        "givenNameKana": "ハナコ",
+        "fullNameRomaji": "Yamada Hanako",
+        "familyNameRomaji": "Yamada",
+        "givenNameRomaji": "Hanako",
+        "email": "hanako@gal-dev.com",
+        "phone": "09012345678",
+        "company": "株式会社ギャルプログラミング",
+        "zipCode": "150-0002",
+        "addressLine1": "東京都渋谷区渋谷1-2-3",
+        "addressLine2": "○○ビル 5F",
+        "city": "渋谷区",
+        "state": "東京都",
+        "country": "日本"
+      }
+    },
+    {
+      "id": "private",
+      "name": "プライベート用",
+      "data": {
+        "fullName": "山田 花子",
+        "fullNameKanji": "山田 花子",
+        "familyNameKanji": "山田",
+        "givenNameKanji": "花子",
+        "fullNameKana": "ヤマダ ハナコ",
+        "familyNameKana": "ヤマダ",
+        "givenNameKana": "ハナコ",
+        "fullNameRomaji": "Yamada Hanako",
+        "familyNameRomaji": "Yamada",
+        "givenNameRomaji": "Hanako",
+        "email": "hanako@example.com",
+        "phone": "09099998888",
+        "zipCode": "153-0042",
+        "addressLine1": "東京都目黒区青葉台4-5-6",
+        "city": "目黒区",
+        "state": "東京都",
+        "country": "日本"
+      }
+    }
+  ]
+}
